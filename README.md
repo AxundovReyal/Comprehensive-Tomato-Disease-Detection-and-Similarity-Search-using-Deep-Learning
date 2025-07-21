@@ -6,6 +6,7 @@ This project focuses on building a deep learning model to detect and classify to
 
 📁 Dataset
 Source: [PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/mohitsingh1804/plantvillage)
+Project: https://drive.google.com/file/d/1Io1e582LO_2Xnq0cQbi44I_lmn_ljEB9/view?usp=sharing
 
 Classes: The dataset includes multiple classes such as:
 
